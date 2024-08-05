@@ -1,5 +1,5 @@
 function calcAverageCalories(days) {
-  if (deys.length === 0) {
+  if (days.length === 0) {
     return 0;
   }
 
